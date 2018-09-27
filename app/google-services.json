@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "384799472697",
+    "firebase_url": "https://cloudmessage-27510.firebaseio.com",
+    "project_id": "cloudmessage-27510",
+    "storage_bucket": "cloudmessage-27510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384799472697:android:c5c64573f2d840c8",
+        "android_client_info": {
+          "package_name": "com.gaurav.cloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384799472697-9p3427lgd8auo0d1rmsm5eonsie9n28n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.cloudmessage",
+            "certificate_hash": "65e73a66a95937532fd71371ddd9fbe8ec14d287"
+          }
+        },
+        {
+          "client_id": "384799472697-14jc5fpj6pptkn8dpotcefmor49b1pb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGSx5BnAW912TPG1S53ANmqmmzCoc1xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
